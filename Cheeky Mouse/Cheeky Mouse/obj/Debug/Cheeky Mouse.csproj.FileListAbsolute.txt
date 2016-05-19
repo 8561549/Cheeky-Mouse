@@ -1,0 +1,33 @@
+E:\zhaojin\c#\Cheeky Mouse\Cheeky Mouse\bin\Debug\Cheeky Mouse.exe
+E:\zhaojin\c#\Cheeky Mouse\Cheeky Mouse\bin\Debug\Cheeky Mouse.pdb
+E:\zhaojin\c#\Cheeky Mouse\Cheeky Mouse\obj\Debug\ResolveAssemblyReference.cache
+E:\zhaojin\c#\Cheeky Mouse\Cheeky Mouse\obj\Debug\Cheeky_Mouse.frmmain.resources
+E:\zhaojin\c#\Cheeky Mouse\Cheeky Mouse\obj\Debug\Cheeky_Mouse.Properties.Resources.resources
+E:\zhaojin\c#\Cheeky Mouse\Cheeky Mouse\obj\Debug\Cheeky Mouse.csproj.GenerateResource.Cache
+E:\zhaojin\c#\Cheeky Mouse\Cheeky Mouse\obj\Debug\Cheeky Mouse.exe
+E:\zhaojin\c#\Cheeky Mouse\Cheeky Mouse\obj\Debug\Cheeky Mouse.pdb
+E:\zhaojin\c#\Cheeky Mouse\Cheeky Mouse\obj\Debug\Cheeky_Mouse.frmgame.resources
+E:\Cheeky Mouse\Cheeky Mouse\obj\Debug\Cheeky Mouse.exe
+E:\Cheeky Mouse\Cheeky Mouse\obj\Debug\Cheeky Mouse.pdb
+E:\Cheeky Mouse\Cheeky Mouse\bin\Debug\Cheeky Mouse.exe
+E:\Cheeky Mouse\Cheeky Mouse\bin\Debug\Cheeky Mouse.pdb
+E:\Cheeky Mouse\Cheeky Mouse\obj\Debug\ResolveAssemblyReference.cache
+E:\Cheeky Mouse\Cheeky Mouse\obj\Debug\Cheeky_Mouse.frmmain.resources
+E:\Cheeky Mouse\Cheeky Mouse\obj\Debug\Cheeky_Mouse.frmgame.resources
+E:\Cheeky Mouse\Cheeky Mouse\obj\Debug\Cheeky_Mouse.Properties.Resources.resources
+E:\Cheeky Mouse\Cheeky Mouse\obj\Debug\Cheeky Mouse.csproj.GenerateResource.Cache
+E:\zhaojin\c#\WinForm\Cheeky Mouse\Cheeky Mouse\obj\Debug\Cheeky Mouse.exe
+E:\zhaojin\c#\WinForm\Cheeky Mouse\Cheeky Mouse\obj\Debug\Cheeky Mouse.pdb
+E:\张富彬\软件工程\Cheeky Mouse\Cheeky Mouse\obj\Debug\Cheeky Mouse.exe
+E:\张富彬\软件工程\Cheeky Mouse\Cheeky Mouse\obj\Debug\Cheeky Mouse.pdb
+C:\Users\吉庆\Desktop\Cheeky Mouse\Cheeky Mouse\obj\Debug\Cheeky Mouse.exe
+C:\Users\吉庆\Desktop\Cheeky Mouse\Cheeky Mouse\obj\Debug\Cheeky Mouse.pdb
+C:\Users\吉庆\Desktop\Cheeky Mouse\Cheeky Mouse\bin\Debug\Cheeky Mouse.exe
+C:\Users\吉庆\Desktop\Cheeky Mouse\Cheeky Mouse\bin\Debug\Cheeky Mouse.pdb
+C:\Users\吉庆\Desktop\Cheeky Mouse\Cheeky Mouse\obj\Debug\Cheeky Mouse.csprojResolveAssemblyReference.cache
+C:\Users\吉庆\Desktop\Cheeky Mouse\Cheeky Mouse\obj\Debug\Cheeky_Mouse.frmmain.resources
+C:\Users\吉庆\Desktop\Cheeky Mouse\Cheeky Mouse\obj\Debug\Cheeky_Mouse.frmgame.resources
+C:\Users\吉庆\Desktop\Cheeky Mouse\Cheeky Mouse\obj\Debug\Cheeky_Mouse.Properties.Resources.resources
+C:\Users\吉庆\Desktop\Cheeky Mouse\Cheeky Mouse\obj\Debug\Cheeky Mouse.csproj.GenerateResource.Cache
+C:\Users\吉庆\Desktop\1\Cheeky Mouse\Cheeky Mouse\obj\Debug\Cheeky Mouse.exe
+C:\Users\吉庆\Desktop\1\Cheeky Mouse\Cheeky Mouse\obj\Debug\Cheeky Mouse.pdb
